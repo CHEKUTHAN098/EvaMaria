@@ -33,8 +33,7 @@ class script(object):
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
-3. Buttons should be properly parsed as markdown format
+2.  Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
 <code>[Button Text](buttonurl:https://github.com/CHEKUTHAN098)</code>
@@ -64,7 +63,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+these are the extra features of Chekuthan 1.0
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
